@@ -1,0 +1,263 @@
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+header{
+        background-color: rgb(0, 0, 0);
+        height: 55px;
+        width: 100%;
+        display: flex;
+        color: white;
+        justify-content: space-around;
+        align-items: center;
+
+}
+header a{
+color: white;
+}
+header a:hover{
+    color: rgb(0, 0, 0);
+    }
+ul{
+    list-style-type: none;
+    display: flex;
+}
+
+li{
+    padding: 15px;
+}
+li:hover{
+    background-color: rgb(206, 197, 197);
+}
+main{
+        width: 100%;
+      
+        background-color:rgba(5, 73, 20, 0.712); 
+        border: solid black 4px;
+       
+}
+
+main h1{
+    margin-top: 25px;
+    text-align: center;
+}
+main h2{
+    margin-top: 25px;
+    text-align: center;
+}
+.mn1{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 70px;
+    width: 100%;
+    display: flex;
+    color: rgba(255, 255, 255, 0.836);
+    justify-content: space-around;
+    align-items: center;
+
+}
+.m1{
+
+    background-color: rgb(11, 43, 10);
+    border: solid rgb(11, 43, 10) 7px;
+}
+
+.m2{
+
+    background-color: rgb(11, 43, 10);
+    border: solid rgb(11, 43, 10) 7px;
+}
+
+.m3{
+
+    background-color: rgb(11, 43, 10);
+    border: solid rgb(11, 43, 10) 7px;
+}
+
+.m4{
+
+    background-color: rgb(11, 43, 10);
+    border: solid rgb(11, 43, 10) 7px;
+}
+
+.m5{
+
+    background-color: rgb(11, 43, 10);
+    border: solid rgb(11, 43, 10) 7px;
+}
+.m6{
+
+    background-color: rgb(11, 43, 10);
+    border: solid rgb(11, 43, 10) 7px;
+}
+
+
+.mn2{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 450px;
+    width: 100%;
+    display: flex;
+    color: rgba(255, 255, 255, 0.836);
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+
+.mn3{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100px;
+    width: 100%;
+    display: flex;
+    color: rgba(255, 255, 255, 0.836);
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+.m7{
+
+    background-color: rgb(11, 43, 10);
+    border: solid rgb(11, 43, 10) 7px;
+}
+.m8{
+
+    background-color: rgb(32, 112, 29);
+    border: solid rgb(32, 112, 29)7px;
+}
+.m9{
+
+    background-color: rgb(11, 43, 10);
+    border: solid rgb(11, 43, 10) 7px;
+}
+
+.fr1{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 70px;
+    width: 100%;
+    display: flex;
+    color: rgba(255, 255, 255, 0.836);
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.hb1{
+    background-color: rgba(158, 156, 156, 0.747);
+    height: 354px;
+    width: 417px;
+   
+    
+}
+}
+.q1{
+    ba;
+    display: flex;
+    flex-direction: column;
+    color: rgba(255, 255, 255, 0.836);
+    justify-content: space-around;
+    align-items: center;
+
+}
+.m10{
+
+
+}
+.m11{
+
+ 
+}
+
+.m12{
+    background-color: rgb(0, 0, 0);
+    border: solid rgb(0, 0, 0) 7px;
+    color: white;
+}
+.m13{
+    background-color: rgb(0, 0, 0);
+    border: solid rgb(0, 0, 0) 7px;
+    color: white;
+}
+
+
+
+
+
+
+footer{
+    background-color: rgb(0, 0, 0);
+    height: 215px;
+    width: 100%;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+
+}
+a {
+    text-decoration: none;
+}
+
+.container{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.q{
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 30px; 
+    height: 600px;
+    width:300px;
+    border: solid rgb(0, 0, 0) 7px;
+    margin-bottom: 10px;
+}
+.one{
+   background-color: rgb(37, 153, 53); 
+}
+
+.two{
+    background-color: rgba(8, 95, 8, 0.418); 
+ }
+ .three{
+    background-color: rgb(37, 153, 53); 
+ }
+ .four{
+    background-color: rgba(8, 95, 8, 0.418); 
+    margin-left: 23%; 
+    margin-top: 30px;
+    height: 450px;
+    width:300px; 
+ }
+ .five{
+    background-color: rgba(8, 95, 8, 0.418); 
+    margin-right: 23%; 
+    margin-top: 30px;
+    height: 450px;
+    width:300px; 
+ }
+.img{
+    display:flex;
+    flex-direction: row;w
+}
+
+
+.tot{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.z{
+    margin-left:20px;
+    margin-right:20px;
+    margin-top: 150px; 
+    height: 200px;
+    width:150px;
+    border: solid rgb(0, 0, 0) 7px;
+    background-color: wheat;
+    margin-bottom: 150px;
+}
